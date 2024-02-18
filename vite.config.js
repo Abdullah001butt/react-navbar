@@ -9,7 +9,7 @@ export default defineConfig({
     // You can add more build options here
   },
   server: {
-    port: 3000, // Specify the port for the development server
+    port: 5173, // Specify the port for the development server
     // You can add more development server options here
   }
 })
